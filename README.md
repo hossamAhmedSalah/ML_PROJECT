@@ -17,3 +17,18 @@
 - Visualising K-means using PCA to create 3 components can be plotted as a 3D clusters
 - Building a simpple GUI -> [GUI](Image_dataset/gui.ipynb)
   - you need to download the model from [model](mage_dataset/trained_models/LogisticRegressionPixel.pkl)
+
+## House Pricing Regression
+💡 House prices is regression data set about: Predict sales prices and practice feature engineering, RFs  of training set is  81 column and test set is  79 column .
+
+Cleaning and Preparing the data
+
+- Feature Selection
+- Dealing with missing data
+- Dealing with outliers
+- Feature Encoding
+- Model Building and Enhancing
+    - Linear Regression
+    - KNN Regressor
+- you can find the notebook -> [code](House_Pricing/house_pricing.ipynb)
+- The report of what we have done -> [report and model evaluation](https://hossam-ahmed.notion.site/House_pricing-5517e93ddb45425dbad2ca6a2b26ff84?pvs=4)
